@@ -1,6 +1,8 @@
 # member-facing
 
 ## utils.py
+We recommend members copy this file into their own Github repository.
+
 There are two key functions in this script:
 1. `logger()`: This is simply a standard logger TMC often leverages
 2. `setup_environment():` Given our commonly used naming conventions of Civis Platform
