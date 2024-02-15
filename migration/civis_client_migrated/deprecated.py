@@ -24,6 +24,8 @@ admin = 'admin@org.org'
 credentials = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES, subject=admin)
 
+group_key = 'sample@org.org'
+
 def main():
     
     
